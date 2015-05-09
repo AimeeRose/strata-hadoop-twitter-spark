@@ -1,0 +1,1957 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Strata + Hadoop World in London 2015 Public Schedule
+VERSION:2.0
+PRODID:Expectnation
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T123000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150506T070719
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39625
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --39625
+SUMMARY:Architectural considerations for Hadoop applications
+DESCRIPTION:Presented by Gwen Shapira (Cloudera), Mark Grover (Cloudera)
+ , Ted Malaska (Cloudera), Jonathan Seidman (Cloudera). This tutorial wil
+ l be valuable for developers, architects, or project leads who are alrea
+ dy knowledgeable about Hadoop and are now looking for more insight into 
+ how it can be leveraged to implement real-world applications.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T113500
+DTSTART;TZID=Europe/London:20150506T105500
+DTSTAMP:20150506T111227
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43623
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:55
+ --43623
+SUMMARY:Ideas that Matter
+DESCRIPTION:Presented by Tim Harford (The Financial Times). We're always
+  talking about "innovation", but - says Tim Harford - there are really t
+ wo very different kinds of innovation. Using stories from sport, science
+ , music and military history, Tim will make you think different about wh
+ ere good ideas come from and how they should be encouraged.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T122500
+DTSTART;TZID=Europe/London:20150506T114500
+DTSTAMP:20150413T185035
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39807
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-11:45
+ --39807
+SUMMARY:Improving feature engineering in the lab and production with Ivo
+ ry
+DESCRIPTION:Presented by Ben Lever (Ambiata). Ivory is a new open-source
+ , Hadoop-based data store that focuses on changing the way we approach t
+ he critical and time-consuming activity of scalable feature engineering.
+  It both simplifies and adds rigour to data science pipelines, aiding in
+  their transition from the lab to production environments.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T140500
+DTSTART;TZID=Europe/London:20150506T134500
+DTSTAMP:20150507T105344
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40024
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-13:45
+ --40024
+SUMMARY:Deploying machine learning in production
+DESCRIPTION:Presented by Alice Zheng (Dato). Building and deploying pred
+ ictive applications require knowing how to evaluate, test, and track the
+  performance of machine learning models over time. Using available off-t
+ he-shelf tools, this talk engages potential application builders on topi
+ cs such as common evaluation metrics, A/B testing set up, tracking model
+  performance, tracking usage via real-time feedback, and updating models
+ .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T142500
+DTSTART;TZID=Europe/London:20150506T140500
+DTSTAMP:20150507T080605
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39779
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:05
+ --39779
+SUMMARY:What we are made of: Analyzing the human genome with SQL
+DESCRIPTION:Presented by Felipe Hoffa (Google). How big is the human gen
+ ome? What tools can we use to manage and understand it? Turns out the sa
+ me tools used for traditional purposes (Hadoop, Spark, BigQuery, Dataflo
+ w, and SQL) can be applied to genomics. In this session we'll introduce 
+ the basics of managing genomes with our favorite big data tools, and dra
+ w parallels with more traditional use cases like analyzing view logs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T145500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150507T122513
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39934
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --39934
+SUMMARY:What's there to know about A/B testing?
+DESCRIPTION:Presented by Noel Welsh (Underscore Consulting). A/B testing
+  is easy; it's just an application of hypothesis testing, taught in ever
+ y first year stats course. My goal in this talk is to convince you that 
+ this view is wrong. There is a lot of subtlety in creating a meaningful 
+ test, and this subtlety is important in practice. I'll cover issues from
+  methodology to epistemology, giving insights and tools directly applica
+ ble to practice.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T145500
+DTSTAMP:20150507T123021
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39592
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:55
+ --39592
+SUMMARY:Measuring the benefit effect for customers with Bayesian predict
+ ive modeling
+DESCRIPTION:Presented by JeongMin Kwon (SK Planet). Offering benefits is
+  a classic and important strategy for acquisition of new customers and c
+ hurn management. For measuring benefits with data, this model combines m
+ ultivariate testing like A/B testing and Bayesian time series prediction
+  modeling. The model is implemented in an R and CausalImpact package. Th
+ is presentation will demonstrate the model structure and provide a case 
+ study.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150507T123534
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39750
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --39750
+SUMMARY:Forecasting space-time events
+DESCRIPTION:Presented by Jeremy Heffner (Azavea). We often face the need
+  to analyze the count of discrete events which occur at a specific time 
+ and place, whether they are crime events, taxi requests, or phone calls.
+   Forecasting these space-time events brings particular challenges: find
+ ing suitable tools for geographic processing, and techniques for modelin
+ g the data.  The session will cover the lessons learned in building such
+  a system.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T174500
+DTSTART;TZID=Europe/London:20150506T170500
+DTSTAMP:20150507T123543
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40025
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:05
+ --40025
+SUMMARY:Deep learning made doubly easy with reusable deep features
+DESCRIPTION:Presented by Carlos Guestrin (Dato). Deep learning is a prom
+ ising machine learning technique with a high barrier to entry. In this t
+ alk, we provide an easy entry into this field via "deep features" from p
+ re-trained models. These features can be trained on one data set for one
+  task and used to obtain good predictions on a different task, on a diff
+ erent data set. No prior experience is necessary.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T113500
+DTSTART;TZID=Europe/London:20150507T105500
+DTSTAMP:20150507T123724
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39559
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:55
+ --39559
+SUMMARY:A taste of random decision forests on Apache Spark
+DESCRIPTION:Presented by Sean Owen (Cloudera). Apache Spark has a lot to
+  like for the data scientist: natively distributed, REPL, Scala and Pyth
+ on APIs, and a machine learning library, MLlib. Spark 1.2 includes an im
+ plementation of random decision forests, an important classifier/regress
+ or algorithm. This talk will introduce Spark, Scala, and random decision
+  forests, and demonstrate the process of analyzing a real-world data set
+  with them.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T122500
+DTSTART;TZID=Europe/London:20150507T114500
+DTSTAMP:20150427T181505
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40341
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-11:45
+ --40341
+SUMMARY:Scalable machine learning
+DESCRIPTION:Presented by Mikio Braun (TU Berlin). While the data managem
+ ent side of Big Data has seen tremendous progress in the past few years,
+  bringing technologies like Hadoop or Spark together with advanced machi
+ ne learning and data analysis methods is still a major challenge. In thi
+ s talk, I will discuss recent advances, approaches, and patterns which a
+ re used to build truly scalable machine learning solutions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T140500
+DTSTART;TZID=Europe/London:20150507T134500
+DTSTAMP:20150406T231207
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39776
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-13:45
+ --39776
+SUMMARY:Hunting criminals with hybrid analytics, semi-supervised learnin
+ g, and agent feedback
+DESCRIPTION:Presented by David Talby (Atigeo, LLC), Claudiu Branzan (Ati
+ geo). Live demo using Python open-source libraries to build a hybrid mac
+ hine-learning model for fraud detection, combining features from natural
+  language processing, topic modeling, time series analysis, link analysi
+ s, heuristic rules, and anomaly detection. We’ll then show how we scaled
+  to billions of events using Spark, and what it took to make the system 
+ perform and ready for production.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T142500
+DTSTART;TZID=Europe/London:20150507T140500
+DTSTAMP:20150429T235436
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39865
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:05
+ --39865
+SUMMARY:Big data 2.0 democratizes machine learning technology for Wall S
+ treet
+DESCRIPTION:Presented by Divanny Lamas (Context Relevant). Context relev
+ ant has defined the next-generation of financial information capabilitie
+ s by applying rapid automated predictive analytics software to solve Wal
+ l Street’s toughest problems. The big data 2.0 era of automated, intelli
+ gent, and scalable systems allows Wall Street banks to finally take adva
+ ntage of the massive value of the data they hold and better serve and pr
+ otect their customers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T145500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150409T212754
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40031
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --40031
+SUMMARY:Poor man's parallel pipelines
+DESCRIPTION:Presented by Jeroen Janssens (Elsevier). Hadoop, Storm, and 
+ Spark are fantastic frameworks for processing massive amounts of data in
+  parallel. Every now and then, there is a one-off data science task that
+  could really use some speeding up. For those kinds of tasks, it's proba
+ bly not worthwhile to set up large frameworks. This presentation demonst
+ rates GNU Parallel, which allows you to easily parallelize and distribut
+ e such tasks.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T145500
+DTSTAMP:20150427T224642
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39836
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:55
+ --39836
+SUMMARY:Users love Spark. Does Spark love (multiple) users?
+DESCRIPTION:Presented by Richard Shaw (MapR). Apache Spark is a powerful
+ , unified data processing engine offering a number of APIs, from batch/S
+ QL over streaming to manipulations over graphs. The core architecture of
+  Spark has not necessarily been designed with a multi-user environment i
+ n mind. We will review existing and emerging approaches how to use Spark
+  in multi-user environments, such as the Tachyon project.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T165500
+DTSTART;TZID=Europe/London:20150507T161500
+DTSTAMP:20150413T230617
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39816
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-16:15
+ --39816
+SUMMARY:Fast > Perfect: Practical approximation examples for mobile app 
+ analytics using Spark Streaming
+DESCRIPTION:Presented by Kevin Schmidt (Mind Candy Ltd), Luis Angel Vice
+ nte Sanchez (Mind Candy Ltd.). Mobile gaming is a fast-moving field and 
+ needs metrics like daily active users or revenue in real-time to be able
+  to fine-tune quickly. Approximation is needed to count those metrics, a
+ s the data volume would be too large to process exactly in real-time. We
+  will demonstrate how to use Spark Streaming and probabilistic data stru
+ ctures to achieve a low error rate, even for many millions of users.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T174500
+DTSTART;TZID=Europe/London:20150507T170500
+DTSTAMP:20150409T213519
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39892
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-17:05
+ --39892
+SUMMARY:Untangling influence and desire: Visual analysis of massive grap
+ h data
+DESCRIPTION:Presented by David Jonker (Uncharted Software Inc.), Scott L
+ angevin (Uncharted Software Inc.). This session demonstrates using open 
+ source tools and techniques for visually exploring massive node-link gra
+ phs in a web browser by visualizing all the data. Seeing all the data re
+ veals informative patterns and provides important context to understandi
+ ng insights. Examples will highlight large scale graph analysis of socia
+ l networks, customer purchase history, and health care industry data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T193000
+DTSTART;TZID=Europe/London:20150505T180000
+DTSTAMP:20150506T085255
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42407
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-18:00
+ --42407
+SUMMARY:Startup Showcase
+DESCRIPTION:What new companies are at the leading edge of the data space
+ ? Meet some of the best, most innovative founders as they demonstrate th
+ eir game-changing ideas at the Startup Showcase.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T133000
+DTSTAMP:20150506T135914
+LOCATION:King's Suite - Balmoral
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39626
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-13:30
+ --39626
+SUMMARY:Building an Apache Hadoop data application
+DESCRIPTION:Presented by Tom White (Cloudera), Joey Echeverria (Rocana),
+  Ryan Blue (Cloudera). In the second (afternoon) half of the Architectur
+ e Day tutorial, attendees will apply the best practices they learned in 
+ the morning session to build a data application for sessionizing user da
+ ta.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150507T080428
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39741
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --39741
+SUMMARY:Spark Camp
+DESCRIPTION:Presented by Paco Nathan (Databricks), Alexandru Sicoe (Big 
+ Data Partnership). Spark Camp, organized by the creators of the Apache S
+ park project at Databricks, will be a day-long, hands-on introduction to
+  the Spark platform, including Spark Core, the Spark Shell, Spark Stream
+ ing, Spark SQL, MLlib, and more.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T113500
+DTSTART;TZID=Europe/London:20150506T105500
+DTSTAMP:20150507T080507
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39624
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:55
+ --39624
+SUMMARY:Friction-free ETL: Automating data transformation with Impala
+DESCRIPTION:Presented by Marcel Kornacker (Cloudera, Inc.). In this talk
+ , attendees will learn about Impala’s approach to on-the-fly, automatic 
+ data transformation, which in conjunction with the ability to handle nes
+ ted structures such as JSON and XML documents, addresses the needs of at
+ -source analytics — including direct querying of your input schema, imme
+ diate querying of data as it lands in HDFS, and high performance on par 
+ with specialized engines.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T122500
+DTSTART;TZID=Europe/London:20150506T114500
+DTSTAMP:20150507T092747
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40006
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-11:45
+ --40006
+SUMMARY:Scale out databases for CERN use cases
+DESCRIPTION:Presented by Zbigniew Baranowski (CERN). Cloudera Impala can
+  be considered as an alternative solution to a relational database for d
+ ata warehouse-like workloads. The CERN database community did a close ev
+ aluation of the Impala engine in respect to CERN's needs. In this presen
+ tation we will discuss our experience with the technology, and will repo
+ rt on a queries performance in comparison to data access using an Oracle
+  RDBMS.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T142500
+DTSTART;TZID=Europe/London:20150506T134500
+DTSTAMP:20150507T080025
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40029
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-13:45
+ --40029
+SUMMARY:Apache Kylin - Extreme OLAP engine for Hadoop
+DESCRIPTION:Presented by Luke Han (eBay), Yang Li (eBay). Apache Kylin i
+ s an open source distributed analytics engine contributed by eBay Inc. t
+ hat provides SQL interface and multi-dimensional analysis (OLAP) on Hado
+ op, supporting extremely large datasets. It was accepted as an Apache In
+ cubator Project on Nov 25, 2014. Website: http://kylin.io
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150413T171348
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39949
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --39949
+SUMMARY:Scaling SQL-on-Hadoop for BI
+DESCRIPTION:Presented by Yanpei Chen (Cloudera), Dileep Kumar (Cloudera 
+ Inc). SQL-on-Hadoop systems that support business intelligence (BI) use 
+ cases must handle hundreds or even thousands of concurrent users. We wil
+ l talk about how to scale your SQL-on-Hadoop system to a large number of
+  concurrent users, and how to verify that your system can support BI.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150427T214301
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39985
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --39985
+SUMMARY:The year in review - key changes in the Hadoop platform in the p
+ ast 12 months
+DESCRIPTION:Presented by Jairam Ranganathan (Cloudera). With hundreds of
+  developers from a variety of organizations participating, Hadoop moves 
+ quickly. This talk will survey the important changes admins and users sh
+ ould be aware of and their impacts on various use cases.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T174500
+DTSTART;TZID=Europe/London:20150506T170500
+DTSTAMP:20150413T202108
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40059
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:05
+ --40059
+SUMMARY:Leading change in data engineering
+DESCRIPTION:Presented by Neil Martin (comparethemarket.com). Compare the
+  Market’s senior project manager Neil Martin will present the lessons le
+ arned whilst delivering a successful yet complex multifaceted project to
+  reinvigorate the organization’s data infrastructure.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T113500
+DTSTART;TZID=Europe/London:20150507T105500
+DTSTAMP:20150507T110831
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39810
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:55
+ --39810
+SUMMARY:How Goldman Sachs is using knowledge to create an information ed
+ ge
+DESCRIPTION:Presented by Joanne Hannaford (Goldman Sachs). Goldman Sachs
+  is a leading global investment banking, securities, and investment mana
+ gement firm that provides a wide range of financial services. Goldman ex
+ ecutes hundreds of millions of financial transactions per day across nea
+ rly every market in the world. Learn how Goldman is harnessing knowledge
+ , data, and compute power to maintain and increase its competitive edge.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T122500
+DTSTART;TZID=Europe/London:20150507T114500
+DTSTAMP:20150507T115803
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39698
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-11:45
+ --39698
+SUMMARY:Information architecture for Apache Hadoop
+DESCRIPTION:Presented by Mark Samson (Cloudera). The Hadoop ecosystem ma
+ kes it possible to build an enterprise data hub capable of storing and a
+ nalysing a wide variety of data. However, a platform with such broad cap
+ ability triggers a question: how to organise the myriad data sets in a w
+ ay that allows users to explore and access the data they need? This sess
+ ion will propose an information architecture for Hadoop that enables thi
+ s.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T142500
+DTSTART;TZID=Europe/London:20150507T134500
+DTSTAMP:20150507T114638
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39627
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-13:45
+ --39627
+SUMMARY:The Future of Apache Hadoop Security
+DESCRIPTION:Presented by Joey Echeverria (Rocana). As the volume of data
+  and number of applications moving to Apache Hadoop has increased, so ha
+ s the need to secure that data and those applications. In this presentat
+ ion, we'll take a brief look at where Hadoop security is today and then 
+ peer into the future.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150413T184057
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39913
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --39913
+SUMMARY:Transparent encryption in HDFS
+DESCRIPTION:Presented by Charles Lamb (Cloudera), Andrew Wang (Cloudera)
+ . Encryption is a requirement for many business sectors dealing with con
+ fidential information. To meet these requirements, transparent, end-to-e
+ nd encryption was added to HDFS. This protects data while it is in-fligh
+ t and at-rest, and can be used compatibly with existing Hadoop apps. We 
+ will cover the design and implementation of transparent encryption in HD
+ FS, as well as performance results.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T165500
+DTSTART;TZID=Europe/London:20150507T161500
+DTSTAMP:20150408T000906
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39932
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-16:15
+ --39932
+SUMMARY:Adding insert, update, and delete to Hive
+DESCRIPTION:Presented by Alan Gates (Hortonworks). Starting in Hive 0.14
+ , insert values, update, and delete have been added to Hive SQL. In addi
+ tion, ACID compliant transactions have been added so users get a consist
+ ent view of data while reading and writing. This talk will cover the int
+ ended use cases, architecture, and performance of insert, update, and de
+ lete in Hive.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T174500
+DTSTART;TZID=Europe/London:20150507T170500
+DTSTAMP:20150505T142207
+LOCATION:King's Suite - Sandringham
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39714
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-17:05
+ --39714
+SUMMARY:Big Data and IoT solutions in minutes
+DESCRIPTION:Presented by Maarten Ectors (Canonical). What if Big Data te
+ chnologies would be like Lego blocks that can be clicked together to cre
+ ate complete solutions. You could add continuous deployment, e.g. Pig or
+  Storm topologies. Integrate SSO. You can add sentiment analysis or real
+ -time dashboards. You can integrate any data source. All Open Source. We
+  are ready to demo this so Big Data solutions in minutes is reality not 
+ marketing.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150506T224931
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40350
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --40350
+SUMMARY:Data-Driven Business Day
+DESCRIPTION:All-Day: For business strategists, marketers, product manage
+ rs, and entrepreneurs, Data-Driven Business looks at how to use data to 
+ make better business decisions faster. Packed with case studies, panels,
+  and eye-opening presentations, this fast-paced day focuses on how to so
+ lve today's thorniest business problems with Big Data. It's the missing 
+ MBA for a data-driven, always-on business world.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T113500
+DTSTART;TZID=Europe/London:20150506T105500
+DTSTAMP:20150506T112434
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39579
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:55
+ --39579
+SUMMARY:Apache Spark: The faster new execution engine for Apache Hive
+DESCRIPTION:Presented by Xuefu Zhang (Cloudera), Rui Li (Intel). This pr
+ esentation will talk about the motivation, design principles, architectu
+ re, challenges, and current status of the community project to make Spar
+ k a new back-end processing engine for Hive.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T122500
+DTSTART;TZID=Europe/London:20150506T114500
+DTSTAMP:20150507T080016
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40017
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-11:45
+ --40017
+SUMMARY:Apache Spark: What's new; what's coming
+DESCRIPTION:Presented by Patrick Wendell (Databricks). Apache Spark is a
+  popular engine for fast and efficient data processing. This talk will c
+ over recent feature additions to Spark, such as the elastic scaling supp
+ ort, new algorithms in MLlib, and the Spark SQL datasources API. It will
+  also outline the Spark roadmap for upcoming months. Since this talk is 
+ not until May, specific roadmap details will be determined close to the 
+ talk itself.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T142500
+DTSTART;TZID=Europe/London:20150506T134500
+DTSTAMP:20150507T122229
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39689
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-13:45
+ --39689
+SUMMARY:Systems that enable data agility: Lessons from LinkedIn
+DESCRIPTION:Presented by Martin Kleppmann (Independent). Data is only us
+ eful if you can process it, analyse it, and create valuable products fro
+ m it. If you have an idea for a new data-driven product, how long does i
+ t take you to get it into production? In this talk, we'll discuss Apache
+  Kafka and Samza, open source tools created at LinkedIn with the goal of
+  helping teams implement data products and ship them to production rapid
+ ly.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150413T232701
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39851
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --39851
+SUMMARY:Using the Zeta Architecture: To become a hero
+DESCRIPTION:Presented by Jim Scott (MapR Technologies, Inc.). The Zeta A
+ rchitecture is the enterprise architecture that describes how to move yo
+ ur business to the next generation. It combines a data center-wide resou
+ rce manager, a rock-solid distributed file system, containerization, a b
+ ig data processing platform, stream processing, a real-time data store, 
+ independent application architectures, and custom enterprise application
+ s.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150507T123143
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42456
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --42456
+SUMMARY:From Bigtable to HBase and back again - history and future
+DESCRIPTION:Presented by Cory O'Connor (Google), Emre Baran (Qubit). Thi
+ s presentation will provide a brief technical overview of Google Bigtabl
+ e and the global problems we solve internally at Google with this revolu
+ tionary architecture. We'll discuss some of our innovations since the or
+ iginal paper was released, what we’ve been working on with HBase, and in
+ clude announcements on where we're headed next!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T174500
+DTSTART;TZID=Europe/London:20150506T170500
+DTSTAMP:20150506T162211
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39842
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:05
+ --39842
+SUMMARY:Big JSON, baffling performance
+DESCRIPTION:Presented by Jacques Nadeau (Apache Foundation/MapR). Techni
+ cal overview of how Apache Drill enables high performance analysis of co
+ mplex and dynamic data. Will discuss the role of self-describing data in
+  a modern distributed data lake, the requirement for adaptive execution,
+  and how to expose dynamic schema using SQL.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T113500
+DTSTART;TZID=Europe/London:20150507T105500
+DTSTAMP:20150507T124912
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39809
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:55
+ --39809
+SUMMARY:Search evolved: Unraveling your data
+DESCRIPTION:Presented by Costin Leau (Elastic). Search is more than typi
+ ng words into a box. It's evolved into the backbone for today’s analytic
+ s demands​ and is an asset for businesses ​to ​ask the right questions ​
+ in order to make sense of their data. Versatile, agile search and analyt
+ ics can uncover the “uncommonly common” trends within, giving businesses
+  real-time insights and setting them up to make the right data-driven de
+ cisions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T122500
+DTSTART;TZID=Europe/London:20150507T114500
+DTSTAMP:20150507T124736
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39963
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-11:45
+ --39963
+SUMMARY:Taming the firehose: Build analytics over 45 billion tweets usin
+ g Elasticsearch and Spark
+DESCRIPTION:Presented by Shashank Singh (Microsoft), Anirudh Koul (Micro
+ soft). We share lessons learned the hard way while building a real-time 
+ search, analytics, and trends pipeline over social media posts, using El
+ asticsearch, Azure, and Spark Streaming. Topics cover building an end-to
+ -end pipeline including stream processing, applying natural language pro
+ cessing tools, scaling and performance tuning, search relevance, and app
+ lications like TV trends.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T142500
+DTSTART;TZID=Europe/London:20150507T134500
+DTSTAMP:20150504T180941
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39860
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-13:45
+ --39860
+SUMMARY:SPARKTA: A real-time analytics platform based on Apache Spark
+DESCRIPTION:Presented by Oscar Méndez (Stratio), David Morales (STRATIO)
+ . Nowadays, all kinds of businesses need to deal with real-time informat
+ ion in order to successfully deliver their core services. SPARKTA was bo
+ rn to meet this demand. Thanks to this technology, real-time analysis is
+  readily available for every use case with absolutely no coding. SPARKTA
+  is easy to deploy, and also open source, fast, scalable, and fault-tole
+ rant.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150414T175400
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39725
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --39725
+SUMMARY:Spark on Mesos
+DESCRIPTION:Presented by Dean Wampler (Typesafe). Spark is often seen as
+  a replacement for MapReduce in Hadoop systems, but Spark clusters can a
+ lso be deployed and managed by Mesos. This talk explains how to use Meso
+ s for Spark applications. Using example applications, we'll examine the 
+ pros and cons of using Mesos vs. Hadoop YARN as a data platform and disc
+ uss practical issues when running Spark on Mesos.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T165500
+DTSTART;TZID=Europe/London:20150507T161500
+DTSTAMP:20150427T175735
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39966
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-16:15
+ --39966
+SUMMARY:Say goodbye to batch
+DESCRIPTION:Presented by Tyler Akidau (Google). Learn what it takes to d
+ itch your Big Data batch pipelines and go all-streaming-all-the-time, wi
+ thout compromising latency, correctness, or the flexibility to deal with
+  changes in upstream data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T174500
+DTSTART;TZID=Europe/London:20150507T170500
+DTSTAMP:20150413T174550
+LOCATION:Buckingham Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39703
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-17:05
+ --39703
+SUMMARY:Introducing Apache Flink: Fast and reliable data analytics in cl
+ usters
+DESCRIPTION:Presented by Stephan Ewen (Data Artisans). Apache Flink is a
+  data analysis engine designed to match Hadoop in reliability and Spark 
+ in performance. Flink introduces novel features such as cost-based optim
+ ization for Java and Scala programs, native iterative processing, unific
+ ation of streaming and batch processing, and efficient hybrid in-memory/
+ on-disk processing. Flink has more than 70 contributors from industry an
+ d academia.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T123000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150505T185420
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39702
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --39702
+SUMMARY:Getting started with Apache Cassandra
+DESCRIPTION:Presented by Christopher Batey (DataStax). Interested in tim
+ e series use cases? Need a database that can scale with your application
+ ? Apache Cassandra has proven to be one of the best solutions for storin
+ g and retrieving time series data at high velocity and high volume. This
+  tutorial will provide an in-depth introduction to Cassandra data modeli
+ ng internals and finish with an example application.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T133000
+DTSTAMP:20150505T230757
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39709
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-13:30
+ --39709
+SUMMARY:D3.js Tutorial - D3 and interactive visualizations for everyone!
+DESCRIPTION:Presented by Sebastian Gutierrez (DashingD3js.com). D3.js ha
+ s a very steep learning curve for learning how to create interactive vis
+ ualizations. However, there are three main concepts that, once you get y
+ our head around them, will make the climb much easier. Focusing on these
+  three main concepts, we will walk through many examples to teach the fu
+ ndamental building blocks of creating D3.js based interactive visualizat
+ ions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T113500
+DTSTART;TZID=Europe/London:20150506T105500
+DTSTAMP:20150507T114144
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39882
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:55
+ --39882
+SUMMARY:Where the rubber meets the road: Decision-making based on data
+DESCRIPTION:Presented by Christine Foster (ShopKeep). How to make data a
+ nd analytics valuable to a business. How to improve a business with data
+  and analytics. I'm a business person first, and an analyst second. I ha
+ ve seen many excellent data scientists fail to implement their ideas. I 
+ have also seen many excellent business people fail to generate value fro
+ m data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T122500
+DTSTART;TZID=Europe/London:20150506T114500
+DTSTAMP:20150507T123140
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39796
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-11:45
+ --39796
+SUMMARY:It ain’t what you do to data, it’s what you do with it
+DESCRIPTION:Presented by Edd Dumbill (Silicon Valley Data Science). Crea
+ ting value from data needs a new mindset. To fully exploit new big data 
+ tools and architectures, we need a new way of thinking: data as the raw 
+ material of growth. How do you share this understanding in your company,
+  and how do you plan for success?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T142500
+DTSTART;TZID=Europe/London:20150506T134500
+DTSTAMP:20150506T131918
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39951
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-13:45
+ --39951
+SUMMARY:Bridging big data with big health
+DESCRIPTION:Presented by Leslie McIntosh (Washington University School o
+ f Medicine). Most health systems have been slow to embrace new technique
+ s and technologies, despite the dire need to get more value from their d
+ ata, more quickly. In this talk, I will discuss the state of health info
+ rmatics; bringing new tools and processes to healthcare; navigating poli
+ tics; and collaborating with industry and startups.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150507T080043
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40060
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --40060
+SUMMARY:How big data is redefining banking
+DESCRIPTION:Presented by Ankit Tharwani (Barclays Bank), Aengus Rooney (
+ Barclays). At Barclays, we have succeeded in building initial info-led p
+ ropositions based on the ability to analyze terabytes of data in seconds
+ . We overcame the challenges of bringing together structured and unstruc
+ tured data by employing innovative solutions.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150506T162027
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39601
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --39601
+SUMMARY:Automating decision-making with big data: How to make it work
+DESCRIPTION:Presented by Lars Trieloff (Blue Yonder). While many compani
+ es are struggling to adopt big data and unlock its potential, facing cha
+ llenges of visualization and democratization of insight, a number of ind
+ ustry leaders are leapfrogging big data adoption to circumvent the analy
+ st bottleneck by going straight to automation of core business processes
+ . This requires overcoming a set of tough cultural, technical, and scien
+ tific challenges.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T174500
+DTSTART;TZID=Europe/London:20150506T170500
+DTSTAMP:20150507T105430
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42562
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:05
+ --42562
+SUMMARY:Data-driven retailing in the modern world
+DESCRIPTION:Presented by Jason Foster (Marks and Spencer). This session 
+ will look at the journey Marks & Spencer have been on and have ahead in 
+ using data to help turn it from a traditional British high street retail
+ er into a global, multi-channel retailer. It will explore the impact on 
+ culture, technology, ways of working, and capabilities needed to drive t
+ he change.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T113500
+DTSTART;TZID=Europe/London:20150507T105500
+DTSTAMP:20150406T214501
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39967
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:55
+ --39967
+SUMMARY:The data strategy revolution: building an in-house data insights
+  lab
+DESCRIPTION:Presented by Nathan Shetterley (Accenture), Hallie Benjamin 
+ (Accenture), John Miller (Accenture). In this talk, John, Nate, and Hall
+ ie from Accenture's Technology Labs will explain their perspective on ex
+ isting approaches to data strategy, and how a devoted data innovation la
+ b can pull together open source technology and open data, create a visua
+ lization, and mock up a prototype, to help organizations pave the way fo
+ r exploration of new data frontiers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T122500
+DTSTART;TZID=Europe/London:20150507T114500
+DTSTAMP:20150507T130029
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39814
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-11:45
+ --39814
+SUMMARY:The curiosity advantage: the most important skill for data scien
+ ce
+DESCRIPTION:Presented by Oana Calugar (AliveShoes ). Curiosity is one of
+  the most valued skills for people working in Data Science. But how can 
+ we train it? Einstein said that "Curiosity is an important trait of a ge
+ nius". Let’s explore how we can develop our curiosity with three exercis
+ es in the session: how to find pleasure in uncertainty; question the que
+ stion we’re asking; and find a beginner's mind. With direct application 
+ to data science.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T142500
+DTSTART;TZID=Europe/London:20150507T134500
+DTSTAMP:20150413T182159
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39953
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-13:45
+ --39953
+SUMMARY:Data Strategy and the CDO
+DESCRIPTION:Presented by Scott Kurth (Silicon Valley Data Science), Juli
+ e Steele (Silicon Valley Data Science). As the necessity of having a dat
+ a strategy is sinking in, the chief data officer (CDO) has emerged as a 
+ new member of the executive team focused on creating and implementing th
+ at strategy. This talk describes what that looks like across a variety o
+ f industries and organizations, and shares some best practices for getti
+ ng the most out of your business data.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150407T205044
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39902
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --39902
+SUMMARY:Using data science to transform OpenTable into your local dining
+  expert
+DESCRIPTION:Presented by Sudeep Das (OpenTable). I will talk about how w
+ e are using data science to help transform OpenTable into a local dining
+  expert who knows you very well, and can help you and others find the be
+ st dining experience wherever you travel. This entails a whole slew of t
+ ools from natural language processing, recommendation system engineering
+ , sentiment analysis to predictions based on internal and external signa
+ ls!
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T165500
+DTSTART;TZID=Europe/London:20150507T161500
+DTSTAMP:20150407T192239
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42851
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-16:15
+ --42851
+SUMMARY:Designing with data: A human-centered approach to data-driven de
+ sign
+DESCRIPTION:Presented by Matt Cooper-Wright (IDEO). IDEO's Hybrid team b
+ rings all the design tools from IDEO's product design process to work wi
+ th clients on data oriented projects. The team will share elements of th
+ eir process and case studies to show how incorporating human-centered te
+ chniques from design can improve data as an input to decision making.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T174500
+DTSTART;TZID=Europe/London:20150507T170500
+DTSTAMP:20150427T214526
+LOCATION:Blenheim Room - Palace Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40352
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-17:05
+ --40352
+SUMMARY:Sex, drugs and data: Using web data to add £3bn to the UK econom
+ y
+DESCRIPTION:Presented by Andrew Fogg (import • io ). How much does prost
+ itution contribute to the UK economy? According to the UK’s Office of Na
+ tional Statistics the answer is £5bn, or 0.4% of GDP.  But how did they 
+ calculate that number? With 10-year-old survey data and lots of assumpti
+ ons, that's how. In this talk Andrew Fogg shows how he was able to add £
+ 3bn to the UK economy using some statistical sleuthing and modern web da
+ ta techniques.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T123000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150506T132432
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40349
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --40349
+SUMMARY:Introduction to machine learning with IPython and scikit-learn
+DESCRIPTION:Presented by Olivier Grisel (Inria & scikit-learn). Three-ho
+ ur hands-on introductory workshop on predictive modeling and machine lea
+ rning with open source tools from the Python community such as scikit-le
+ arn and IPython.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T133000
+DTSTAMP:20150506T100744
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40255
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-13:30
+ --40255
+SUMMARY:Reproducible research with R and Shiny
+DESCRIPTION:Presented by Garrett Grolemund (RStudio), Colin Gillespie (N
+ ewcastle University). Learn how to combine the best ideas of reproducibl
+ e research into a simple, easy-to-use workflow with R. The Packrat, R Ma
+ rkdown, and Shiny packages let you (a) embed your code into reports to c
+ reate a reproducible record of your work, (b) rerun the code to generate
+  a new report as data and ideas change, and (c) export your reports into
+  multiple formats, including pdfs and interactive web apps.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T113500
+DTSTART;TZID=Europe/London:20150506T105500
+DTSTAMP:20150506T103250
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39768
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:55
+ --39768
+SUMMARY:The Internet of trains
+DESCRIPTION:Presented by Gerhard Kress (Siemens AG). Trains today are co
+ mplex systems of many embedded subsystems. Market demands are changing a
+ nd data analytics is now absolutely required to deliver market leading o
+ fferings to customers. What value is hidden in train data? We will discu
+ ss different approaches and explore opportunities to reduce the cost of 
+ rolling stock fleet maintenance, minimize train downtime and improve fle
+ et availability.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T122500
+DTSTART;TZID=Europe/London:20150506T114500
+DTSTAMP:20150506T184553
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39900
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-11:45
+ --39900
+SUMMARY:Multi-model databases and the art of aircraft maintenance
+DESCRIPTION:Presented by Max Neunhöffer (ArangoDB GmbH). We present a co
+ ncrete case study of a situation where it was necessary to have differen
+ t data models (documents and graphs) in the same database engine using a
+  common query language. A single aircraft already contains some 6,000,00
+ 0 parts, not counting components. Any single data model inevitably leads
+  to inefficient queries, though queries are nevertheless crucial for the
+  application.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150506T194144
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39919
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --39919
+SUMMARY:How to talk to a house
+DESCRIPTION:Presented by Simon Elliston Ball (Hortonworks). How do you n
+ egotiate with your house? This is a tale of home automation, machine lea
+ rning, and a new way of programming. Find out how I used machine learnin
+ g, micro-services and image recognition to light my house, mainly in the
+  dark.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150506T165111
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39954
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --39954
+SUMMARY:How (the Internet of) Things are turning the Internet upside dow
+ n
+DESCRIPTION:Presented by Ted Dunning (MapR Technologies). Just when we t
+ hought the last mile problem was solved, the Internet of Things is turni
+ ng the last mile problem of the consumer Internet into the first mile pr
+ oblem of the industrial Internet. This inversion impacts every aspect of
+  the design of networked applications. I will show how to use existing H
+ adoop ecosystem tools, such as Spark, Drill and others, to deal successf
+ ully with this inversion.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T174500
+DTSTART;TZID=Europe/London:20150506T170500
+DTSTAMP:20150507T080058
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39870
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:05
+ --39870
+SUMMARY:Smart cars of tomorrow: real-time driving patterns
+DESCRIPTION:Presented by Ellie Dobson (Pivotal), Michael Minella (Pivota
+ l), Ronert Obst (Pivotal). Intelligent prediction of driving behavior ha
+ s a wide range of applications. For this session, we will explore a conn
+ ected car. We will cover the architecture used for streaming real-time s
+ ensor data from a car, and the machine learning techniques utilized to p
+ redict route and range. Coming out of this session, you’ll understand ho
+ w open source technologies can serve as a platform for the IoT.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T113500
+DTSTART;TZID=Europe/London:20150507T105500
+DTSTAMP:20150507T110005
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39799
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:55
+ --39799
+SUMMARY:Algorithm ethics: The inevitable subjective judgments in analyti
+ cs
+DESCRIPTION:Presented by Majken Sander (BusinessAnalyst.dk), Joerg Blumt
+ ritt (Datarella™). Algorithms define the meaning we get from data. Arbit
+ rary decisions are regularly built into our analytics by chosen method, 
+ setting parameters, or dealing with missing values. These value judgment
+ s are not present in the privacy discussion or business point of view. H
+ owever, they may be much more important than the more obvious data colle
+ ction or secure storage.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T122500
+DTSTART;TZID=Europe/London:20150507T114500
+DTSTAMP:20150427T213402
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39952
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-11:45
+ --39952
+SUMMARY:Using data for EVIL
+DESCRIPTION:Presented by Francine Bennett (Mastodon C), Duncan Ross (TES
+  Global). In Barcelona we saw that being good is hard. Being evil is fun
+  and gets you paid more. Over the last 18 months examples have been emba
+ rrassingly easy to find. We review the field of doing high-impact evil w
+ ith data and analysis. Make the maximum (negative) impact on your friend
+ s, your business, and the world in this updated version of the best talk
+  from 2013.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T142500
+DTSTART;TZID=Europe/London:20150507T134500
+DTSTAMP:20150409T212029
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39912
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-13:45
+ --39912
+SUMMARY:Sharing humanitarian data at the United Nations
+DESCRIPTION:Presented by Francis Irving (ScraperWiki Ltd.). Better data 
+ collaboration is vital for every organization. For the UN's Humanitarian
+  division it is particularly hard--they work in hundreds of countries, i
+ n emergencies and natural disasters. This talk describes the Humanitaria
+ n Data Exchange, answering such questions as: what motivates busy, front
+ -line staff to share data? How do you measure the success of a data coll
+ aboration platform?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150414T190413
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39965
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --39965
+SUMMARY:Steady UX: Balancing personalisation and privacy to create under
+ standing and trust
+DESCRIPTION:Presented by Ann Wuyts (Sentiance). 'Connected' refers more 
+ and more to a human-machine relationship that requires understanding and
+  trust; personalisation and respect for what is personal. More about thi
+ s changing relationship, six basic concepts that apply to user experienc
+ e design as well as privacy, and tips for delivering both understanding 
+ and trust.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T165500
+DTSTART;TZID=Europe/London:20150507T161500
+DTSTAMP:20150409T205711
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39844
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-16:15
+ --39844
+SUMMARY:Being a good data citizen
+DESCRIPTION:Presented by Phil Harvey (DataShaka). Data is hard. Old thin
+ king and old tools play their part, but the worst offenders are bad data
+  citizens. This talk calls out the bad behavior and old thinking. Then i
+ t covers new thinking, a better way of approaching tools, and, most impo
+ rtantly, how to make data easy by being a good data citizen.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T174500
+DTSTART;TZID=Europe/London:20150507T170500
+DTSTAMP:20150427T161413
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39819
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-17:05
+ --39819
+SUMMARY:Visualizing the world's largest democratic exercise
+DESCRIPTION:Presented by Anand  Subramanian  (Gramener). The election re
+ sults page for the 2014 Indian general elections was hosted on CNN-IBN a
+ nd bing.com. The focus was on real-time analysis of results for users an
+ d TV anchors. With over 540 million voters and 100 million viewers, the 
+ volume and complexity of data both provide a design challenge. This talk
+  focuses on the techniques behind this design. http://blog.gramener.com/
+ 1755
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T140500
+DTSTART;TZID=Europe/London:20150506T134500
+DTSTAMP:20150506T184636
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40740
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-13:45
+ --40740
+SUMMARY:The internet of everything: Creating programmable cities, cars, 
+ and homes
+DESCRIPTION:Presented by yodit stanton (opensensors.io). Creating progra
+ mmable cities, cars, and homes using sensors and data.  Explore a number
+  of IoT use cases and aims to give some practical implementation experie
+ nce reports of building connected products in the context of cities, car
+ s, and homes.  We will also show what happens when you make it super-eas
+ y to plug sensor data into multiple systems, creating a new type of prog
+ rammable world.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T142500
+DTSTART;TZID=Europe/London:20150506T140500
+DTSTAMP:20150413T170854
+LOCATION:St. James / Regents
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39931
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:05
+ --39931
+SUMMARY:Turning streaming sushi into streaming data means happier custom
+ ers
+DESCRIPTION:Presented by Adi Krishnan (Amazon). In Japan, Kaiten (convey
+ er belt) sushi is a fast business. With 360 stores, SushiRo is one of th
+ e largest Kaiten operators in the world. Faced with 24-hour BI cycles an
+ d lost data due to daily batch reporting, SushiRo turned to AWS for stre
+ aming analytics. Learn how Amazon Kinesis and Redshift help SushiRo capt
+ ure real-time data from Sushi plates and convert it into business insigh
+ ts.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T113500
+DTSTART;TZID=Europe/London:20150506T105500
+DTSTAMP:20150427T215546
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43744
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:55
+ --43744
+SUMMARY:Modernize Your Data Management by Optimizing Your Data Warehousi
+ ng Environments
+DESCRIPTION:Presented by Paul  Davies (Cisco), Dimitris Papavassiliou (C
+ isco). This session will look at Cisco’s Data Warehouse Optimisation (DW
+ O) Solution, and explores how it reduces ever-growing data warehouse man
+ agement costs, whilst delivering a greater variety and volume of data th
+ at can can be ingested and stored to derive new business insights.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T122500
+DTSTART;TZID=Europe/London:20150506T114500
+DTSTAMP:20150427T212745
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42725
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-11:45
+ --42725
+SUMMARY:Lowering the entry point to getting going with Hadoop and obtain
+ ing business value
+DESCRIPTION:Presented by Mark Torr (SAS). This presentation shares how S
+ AS can help spread the use of Hadoop to less technical audiences, showca
+ sing some of the end-user technologies already implemented at SAS custom
+ ers that can help across the spectrum of data ingestion and management, 
+ visualization, and analytics.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T142500
+DTSTART;TZID=Europe/London:20150506T134500
+DTSTAMP:20150427T212823
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42690
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-13:45
+ --42690
+SUMMARY:No more standby read-only Hadoop disaster recovery sites
+DESCRIPTION:Presented by Brett Rudenstein (WANdisco). This session will 
+ describe a method of data replication between Hadoop in multiple locatio
+ ns that achieves 100% utilization of globally-distributed infrastructure
+ , while maintaining data consistency in the face of network, process, an
+ d machine failures. The session will also describe how computation is ex
+ ecuted across sites, and provide example architectures using MapReduce a
+ nd Hive.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T113500
+DTSTART;TZID=Europe/London:20150507T105500
+DTSTAMP:20150507T120431
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42720
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:55
+ --42720
+SUMMARY:The age of agile analytics has arrived!
+DESCRIPTION:Presented by Frank Saeuberlich (Teradata). Most organization
+ s nowadays see the massive value potential in (big) data analytics. What
+  most of them still fear is that starting an analytics initiative will r
+ esult in a massive IT project that will take 12-18 months before first a
+ nalytical results are achieved – and deploying the results to generate b
+ usiness value will take another 12-18 months. . .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150427T212927
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43549
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --43549
+SUMMARY:Oozie or easy: Managing Hadoop workflows the EASY way
+DESCRIPTION:Presented by Tom Geva (BMC Software). As Hadoop adoption con
+ tinues to grow, the number of workflows and their complexity increases. 
+ This session describes how organizations are managing Hadoop and big dat
+ a workflows with an enterprise workflow solution that provides a graphic
+ al user interface for managing all of the complex components of the ente
+ rprise application fabric.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T122500
+DTSTART;TZID=Europe/London:20150507T114500
+DTSTAMP:20150427T213356
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43720
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-11:45
+ --43720
+SUMMARY:Road to real-time digital business
+DESCRIPTION:Presented by Rod Smith (IBM Emerging Internet Technologies )
+ . Big data and analytics continue to be a disruptive business force. Are
+  we entering another phase – real-time digital business transformation, 
+ where businesses are realizing that the time to adjust to market and cus
+ tomer opportunities and threats is shrinking quickly?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150427T213438
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43657
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --43657
+SUMMARY:A modern, flexible approach to Hadoop implementation, incorporat
+ ing innovations from HP Vertica & IDOL
+DESCRIPTION:Presented by Gilles Noisette (HP). HP has integrated Hadoop 
+ into the core of our Big Data platform, solutions and services. We will 
+ introduce the HP Big Data Reference Architecture and a series of service
+ s that will accelerate your adoption of Hadoop. HP's new BDRA for Hadoop
+  offers an extremely flexible and powerful platform, when HP Haven Big D
+ ata Software solutions can be used to augment Hadoop and build a smarter
+  Data Lake.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150427T212851
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43645
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --43645
+SUMMARY:Purpose Built Analytics Infrastructure, Intel and HP Powering Pe
+ rformance at Scale
+DESCRIPTION:Presented by Brandon Draeger (Intel), Joseph  George (Hewlet
+ t-Packard (HP)). Join Intel and HP as they discuss new innovations in ne
+ w server designs powered by Intel Architecture that are enabling custome
+ rs to adopt and grow their big data environments with confidence.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T174500
+DTSTART;TZID=Europe/London:20150506T170500
+DTSTAMP:20150429T011231
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43941
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:05
+ --43941
+SUMMARY:How being an information generation is driving Big Data and busi
+ ness change
+DESCRIPTION:Presented by Mark Sear (EMC). Big data.  Is this the real li
+ fe?  Is this just fantasy?  Caught in a landslide.  No escape from reali
+ ty.  A brief walk through some of the developments that are happening no
+ w with Big Data at the core.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T142500
+DTSTART;TZID=Europe/London:20150507T134500
+DTSTAMP:20150504T140931
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/44047
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-13:45
+ --44047
+SUMMARY:Repeatedly Deliver Trusted and Timely Data for Big Data Analytic
+ s
+DESCRIPTION:Presented by Scott  Hedrick (Informatica), Mathieu Lagrange 
+ (Informatica). Presentation focusing on the opportunities and challenges
+  presented by big data, featuring a technical overview of how Informatic
+ a can help deliver trusted and timely data and including examples of cus
+ tomer best practice.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T165500
+DTSTART;TZID=Europe/London:20150507T161500
+DTSTAMP:20150505T160645
+LOCATION:Windsor Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/44082
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-16:15
+ --44082
+SUMMARY:Apache Atlas: Data Governance for Hadoop
+DESCRIPTION:Presented by Sean Roberts (Hortonworks). Apache Atlas propos
+ es to provide governance capabilities in Hadoop that use both a prescrip
+ tive and forensic models enriched by business taxonomical metadata.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T151500
+DTSTART;TZID=Europe/London:20150506T143500
+DTSTAMP:20150507T082123
+LOCATION:Westminster Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43221
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-14:35
+ --43221
+SUMMARY:Hadoop Application Architectures - ask us anything
+DESCRIPTION:Presented by Mark Grover (Cloudera), Jonathan Seidman (Cloud
+ era), Gwen Shapira (Cloudera), Ted Malaska (Cloudera). Join the authors 
+ of "Hadoop Application Architectures" for an open Q/A session on conside
+ rations and recommendations for architecture and design of applications 
+ using Hadoop. Talk to us about your use-case and its big data architectu
+ re, or just come to listen in.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T165500
+DTSTART;TZID=Europe/London:20150506T161500
+DTSTAMP:20150414T193241
+LOCATION:Westminster Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43651
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-16:15
+ --43651
+SUMMARY:Practical machine learning - ask us anything
+DESCRIPTION:Presented by Angie Ma (ASI), Anjali Samani (ASI), Marc Warne
+ r, Ken Williams (The ASI). Pragmatic approach to data science, data scie
+ nce pipeline, and machine learning for different vertical applications. 
+ How to train existing staff to take on data science and engineering chal
+ lenges. Where are the unicorns? How to find and hire great data scientis
+ ts. How to evaluate their skillset. How to build and manage an innovativ
+ e data...
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T151500
+DTSTART;TZID=Europe/London:20150507T143500
+DTSTAMP:20150422T200657
+LOCATION:Westminster Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43750
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-14:35
+ --43750
+SUMMARY:Spark ask us anything
+DESCRIPTION:Presented by Paco Nathan (Databricks), Patrick Wendell (Data
+ bricks). Join the Spark team for an informal question and answer session
+ . Spark committers from Databricks will be on hand to field a wide range
+  of detailed questions. Even if you don't have a specific question, join
+  in to hear what others are asking.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150505T172147
+LOCATION:Hilton Meeting Room 1-3
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40531
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --40531
+SUMMARY:Apache Spark advanced training (Day 1)
+DESCRIPTION:Presented by Olivier Girardot (Lateral Thoughts), Sameer Far
+ ooqui (Databricks). This three-day curriculum features advanced lectures
+  and hands-on technical exercises for advanced Spark usage in data explo
+ ration, analysis, and building big data applications. Course materials e
+ mphasize architectural design patterns and best practices for leveraging
+  Spark in the context of other popular, complementary frameworks for bui
+ lding and managing enterprise data workflows.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T170000
+DTSTART;TZID=Europe/London:20150506T090000
+DTSTAMP:20150429T061652
+LOCATION:Hilton Meeting Room 1-3
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40532
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:00
+ --40532
+SUMMARY:Apache Spark advanced training (Day 2)
+DESCRIPTION:Presented by Olivier Girardot (Lateral Thoughts), Sameer Far
+ ooqui (Databricks). This three-day curriculum features advanced lectures
+  and hands-on technical exercises for advanced Spark usage in data explo
+ ration, analysis, and building big data applications. Course materials e
+ mphasize architectural design patterns and best practices for leveraging
+  Spark in the context of other popular, complementary frameworks for bui
+ lding and managing enterprise data workflows.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T170000
+DTSTART;TZID=Europe/London:20150507T090000
+DTSTAMP:20150409T175307
+LOCATION:Hilton Meeting Room 1-3
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40533
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:00
+ --40533
+SUMMARY:Apache Spark advanced training (Day 3)
+DESCRIPTION:Presented by Olivier Girardot (Lateral Thoughts), Sameer Far
+ ooqui (Databricks). This three-day curriculum features advanced lectures
+  and hands-on technical exercises for advanced Spark usage in data explo
+ ration, analysis, and building big data applications. Course materials e
+ mphasize architectural design patterns and best practices for leveraging
+  Spark in the context of other popular, complementary frameworks for bui
+ lding and managing enterprise data workflows.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150505T170000
+DTSTART;TZID=Europe/London:20150505T090000
+DTSTAMP:20150505T151835
+LOCATION:Hilton Meeting Room 4-6
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40529
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-05-09:00
+ --40529
+SUMMARY:Cloudera essentials for Apache Hadoop
+DESCRIPTION:Presented by Kai Voigt (Cloudera). Cloudera University's one
+ -day essentials course presents an overview of Apache Hadoop and how it 
+ can help decision-makers meet business goals, providing a fundamental in
+ troduction to the main components of Hadoop and its use cases in various
+  industries. This course is a good starting point for any role or set of
+  objectives and is part of the data analyst learning path.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T170000
+DTSTART;TZID=Europe/London:20150506T090000
+DTSTAMP:20150413T200627
+LOCATION:Hilton Meeting Room 4-6
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40534
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:00
+ --40534
+SUMMARY:Practical machine learning (Day 1)
+DESCRIPTION:Presented by Angie Ma (ASI), Marc Warner, Andrew Brookes (AS
+ I), Anjali Samani, Alessandra Staglianò (The ASI), Ken Williams (The ASI
+ ), Mahesan Niranjan (University of Southampton), Elena Chatzimichali (We
+ llcome Trust Sanger Institute, Cambridge). This intensive two-day course
+  will provide you with a condensed introduction to the key concepts and 
+ techniques of machine learning. It will allow you to know what is and is
+  not possible with these exciting new tools, and understand how they can
+  benefit your organization. It will give you the language and framework 
+ to talk to both experts and executives.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T170000
+DTSTART;TZID=Europe/London:20150507T090000
+DTSTAMP:20150413T200515
+LOCATION:Hilton Meeting Room 4-6
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40535
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:00
+ --40535
+SUMMARY:Practical Machine Learning (Day 2)
+DESCRIPTION:Presented by Angie Ma (ASI), Marc Warner, Andrew Brookes (AS
+ I), Anjali Samani, Alessandra Staglianò (The ASI), Ken Williams (The ASI
+ ), Mahesan Niranjan (University of Southampton), Elena Chatzimichali (We
+ llcome Trust Sanger Institute, Cambridge). This intensive two-day course
+  will provide you with a condensed introduction to the key concepts and 
+ techniques of machine learning. It will allow you to know what is and is
+  not possible with these exciting new tools, and understand how they can
+  benefit your organization. It will give you the language and framework 
+ to talk to both experts and executives.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T091000
+DTSTART;TZID=Europe/London:20150506T090000
+DTSTAMP:20150506T103717
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/41053
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:00
+ --41053
+SUMMARY:Wednesday Keynote Welcome
+DESCRIPTION:Presented by Roger Magoulas (O'Reilly Media), Doug Cutting (
+ Cloudera), Alistair Croll (Solve For Interesting). Program Chairs Roger 
+ Magoulas, Doug Cutting, and Alistair Croll welcome you to the first day 
+ of keynotes.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T092500
+DTSTART;TZID=Europe/London:20150506T091000
+DTSTAMP:20150507T080244
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43687
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:10
+ --43687
+SUMMARY:The data adventure in Santander
+DESCRIPTION:Presented by Maite Agujetsas (Santander Group). In this pres
+ entation we will guide you through the data adventure that we have embar
+ ked on to deliver corporate goals. This digital transformation will help
+  us to achieve customer experience and satisfaction improvement whilst a
+ dhering to security and data governance challenges to protect our custom
+ ers.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T093500
+DTSTART;TZID=Europe/London:20150506T092500
+DTSTAMP:20150507T105231
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42669
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:25
+ --42669
+SUMMARY:Hadoop 2015: What we’ve learned in 5 years
+DESCRIPTION:Presented by Rick Farnell (Think Big, A Teradata Company). A
+ fter five years of enterprise adoption, Hadoop is now a critical data as
+ set in your analytic and data platform strategy. Some companies, however
+ , are struggling with making Hadoop work for their enterprise needs. . .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T094500
+DTSTART;TZID=Europe/London:20150506T093500
+DTSTAMP:20150507T080445
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42678
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:35
+ --42678
+SUMMARY:Keynote with Cait O'Riordan
+DESCRIPTION:Presented by Cait O'Riordan (Shazam). Cait O'Riordan, VP of 
+ product, music, and platforms, Shazam
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T095000
+DTSTART;TZID=Europe/London:20150506T094500
+DTSTAMP:20150507T105250
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/39695
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:45
+ --39695
+SUMMARY:Hadoop and healthcare
+DESCRIPTION:Presented by David Richards (WANdisco). Healthcare is in the
+  early stages of a revolution, as almost everything that determines our 
+ health is now becoming knowable. Data-driven healthcare represents an un
+ heralded opportunity to make a huge leap forward. At this pivotal moment
+  in medical history, we need to overcome an attitudinal aversion to util
+ izing the promise of data analysis to provide medical insight and save l
+ ives.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T095500
+DTSTART;TZID=Europe/London:20150506T095000
+DTSTAMP:20150507T105313
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42671
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:50
+ --42671
+SUMMARY:Bigtable’s next big step
+DESCRIPTION:Presented by Cory O'Connor (Google). At Google, few things a
+ re so pervasive as Bigtable, the famous wide-column NoSQL database. It l
+ ies behind nearly every major Google product (Gmail, YouTube, Google Ana
+ lytics), with its own class of internal memes, and a resource footprint 
+ unmatched anywhere else in the world.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T100500
+DTSTART;TZID=Europe/London:20150506T095500
+DTSTAMP:20150507T105302
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42667
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-09:55
+ --42667
+SUMMARY:Keynote with Julie Meyer
+DESCRIPTION:Presented by Julie Meyer (Ariadne Capital). Julie Meyer, cha
+ irman, CEO, and founder, Ariadne Capital
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T102500
+DTSTART;TZID=Europe/London:20150506T100500
+DTSTAMP:20150507T080352
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43622
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-10:05
+ --43622
+SUMMARY:Ideas that Matter
+DESCRIPTION:Presented by Tim Harford (The Financial Times). We're always
+  talking about "innovation", but - says Tim Harford - there are really t
+ wo very different kinds of innovation. Using stories from sports, scienc
+ e, music, and military history, Tim will make you think different about 
+ where good ideas come from and how they should be encouraged.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T090500
+DTSTART;TZID=Europe/London:20150507T090000
+DTSTAMP:20150507T085714
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/41054
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:00
+ --41054
+SUMMARY:Thursday Keynote Welcome
+DESCRIPTION:Presented by Roger Magoulas (O'Reilly Media), Doug Cutting (
+ Cloudera), Alistair Croll (Solve For Interesting). Program Chairs Roger 
+ Magoulas, Doug Cutting, and Alistair Croll welcome you to the second day
+  of keynotes.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T091500
+DTSTART;TZID=Europe/London:20150507T090500
+DTSTAMP:20150507T115633
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42679
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:05
+ --42679
+SUMMARY:British Telecom Featured Keynote
+DESCRIPTION:Presented by Phillip Radley (BT). In this session, Phill Rad
+ ley (Chief Data Architect at British Telecom) gives an overview of BT's 
+ internal multi-tenant hadoop platform. He explains  their first producti
+ on use case (master data management of BT UK Business Customer data) and
+  gives a flavour of their use case pipeline.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T092500
+DTSTART;TZID=Europe/London:20150507T091500
+DTSTAMP:20150507T125928
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42670
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:15
+ --42670
+SUMMARY:Road to real-time digital business
+DESCRIPTION:Presented by Rod Smith (IBM Emerging Internet Technologies )
+ . Big data and analytics continue to be a disruptive business force. Are
+  we entering another phase – real-time digital business transformation, 
+ where businesses are realizing that the time to adjust to market and cus
+ tomer opportunities and threats is shrinking quickly?
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T093500
+DTSTART;TZID=Europe/London:20150507T092500
+DTSTAMP:20150507T123641
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42528
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:25
+ --42528
+SUMMARY:Bringing life to design: Data science in 3D
+DESCRIPTION:Presented by Mike Haley (Autodesk, Inc.). Jet engines, lifel
+ ike movie monsters, cancer-fighting nanorobots, and bespoke products. We
+  live in a world where everything around us is designed by someone. The 
+ pace of innovation is escalating and with new methods of manufacturing, 
+ such as 3D printing, the demands placed on designers and design technolo
+ gy are increasing.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T094000
+DTSTART;TZID=Europe/London:20150507T093500
+DTSTAMP:20150507T123842
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42672
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:35
+ --42672
+SUMMARY:Hadoop: It’s as easy as riding a bike
+DESCRIPTION:Presented by Tamara Dull (SAS Institute Inc.). Join SAS’s Ta
+ mara Dull as she compares bike riding to current trends in big data adop
+ tion and explains why newer technologies like Hadoop aren’t always to bl
+ ame.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T094500
+DTSTART;TZID=Europe/London:20150507T094000
+DTSTAMP:20150507T115707
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42673
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:40
+ --42673
+SUMMARY:Connected Car – World Record Race
+DESCRIPTION:Presented by Gareth Martin (HP Enterprise Services). As the 
+ internet of things and connected car programs across the globe gain mome
+ ntum and broaden in scope, check out this world record attempt; racing f
+ rom North Cape, Norway to Cape Agulhas, South Africa. . .
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T095500
+DTSTART;TZID=Europe/London:20150507T094500
+DTSTAMP:20150507T115719
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/43719
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:45
+ --43719
+SUMMARY:Data Trends at Goldman Sachs
+DESCRIPTION:Presented by Joanne Hannaford (Goldman Sachs). Joanne Hannaf
+ ord, Partner, Goldman Sachs.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T100500
+DTSTART;TZID=Europe/London:20150507T095500
+DTSTAMP:20150507T115736
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42594
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-09:55
+ --42594
+SUMMARY:Keynote with Christina Flounders
+DESCRIPTION:Presented by Christine Flounders (Bloomberg LP). Christina F
+ lounders, Bloomberg
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T102000
+DTSTART;TZID=Europe/London:20150507T100500
+DTSTAMP:20150507T115728
+LOCATION:King's Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42743
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-10:05
+ --42743
+SUMMARY:Is Privacy Becoming a Luxury Good?
+DESCRIPTION:Presented by Julia Angwin (ProPublica). We are being watched
+  – by companies, by the government, by our neighbors. Technology has mad
+ e powerful surveillance tools available to everyone. And now some of us 
+ are investing in counter-surveillance techniques and tactics.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T184500
+DTSTART;TZID=Europe/London:20150506T174500
+DTSTAMP:20150506T194208
+LOCATION:Monarch Suite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42408
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-17:45
+ --42408
+SUMMARY:Attendee Reception
+DESCRIPTION:Grab a drink, mingle with fellow Strata + Hadoop World parti
+ cipants, and see the latest technologies and products from leading compa
+ nies in the data space.
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T134500
+DTSTART;TZID=Europe/London:20150506T122500
+DTSTAMP:20150506T194108
+LOCATION:Sponsor Pavilion / Westminster Suite / Fiamma Restaurant
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40497
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-12:25
+ --40497
+SUMMARY:Wednesday Lunchtime BoF Tables (located in the Monarch Suite)
+DESCRIPTION:Birds of a Feather (BoF) discussions are a great way to info
+ rmally network with people in similar industries or interested in the sa
+ me topics. (Located in the Monarch Suite)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150507T134500
+DTSTART;TZID=Europe/London:20150507T122500
+DTSTAMP:20150420T173830
+LOCATION:Sponsor Pavilion / Westminster Suite / Fiamma Restaurant
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/40496
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-07-12:25
+ --40496
+SUMMARY:Thursday Lunchtime BoF Tables (located in the Monarch Suite)
+DESCRIPTION:Birds of a Feather (BoF) discussions are a great way to info
+ rmally network with people in similar industries or interested in the sa
+ me topics. (Located in the Monarch Suite)
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Europe/London:20150506T211500
+DTSTART;TZID=Europe/London:20150506T191500
+DTSTAMP:20150506T194220
+LOCATION:Offsite
+URL:http://strataconf.com/big-data-conference-uk-2015/public/schedule/de
+ tail/42409
+UID:http://strataconf.com/big-data-conference-uk-2015--s2015-05-06-19:15
+ --42409
+SUMMARY:Data After Dark: Pub Crawl
+DESCRIPTION:The must-attend data party of year, Data After Dark is hoste
+ d by Strata + Hadoop World on Wednesday evening, at four venues in Londo
+ n: The Chapel, The Larrik, The Grand Union, and Lord Wargrave.
+END:VEVENT
+END:VCALENDAR

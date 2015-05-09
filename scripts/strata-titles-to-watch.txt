@@ -1,0 +1,74 @@
+Title,TweetCount
+Improving feature engineering in the lab and production with Ivory,10
+The curiosity advantage: the most important skill for data science,10
+Reproducible research with R and Shiny,10
+Hadoop 2015: What we’ve learned in 5 years,11
+Data After Dark: Pub Crawl,12
+How (the Internet of) Things are turning the Internet upside down,12
+How being an information generation is driving Big Data and business change,13
+It ain’t what you do to data, it’s what you do with it,14
+Scale out databases for CERN use cases,15
+How big data is redefining banking,16
+Untangling influence and desire: Visual analysis of massive graph data,16
+The data strategy revolution: building an in-house data insights lab,16
+Apache Spark: The faster new execution engine for Apache Hive,18
+Friction-free ETL: Automating data transformation with Impala,18
+Big JSON, baffling performance,18
+SPARKTA: A real-time analytics platform based on Apache Spark,20
+Hadoop: It’s as easy as riding a bike,20
+Say goodbye to batch,20
+Oozie or easy: Managing Hadoop workflows the EASY way,20
+Where the rubber meets the road: Decision-making based on data,20
+Hunting criminals with hybrid analytics, semi-supervised learning, and agent feedback,26
+Taming the firehose: Build analytics over 45 billion tweets using Elasticsearch and Spark,26
+Road to real-time digital business,26
+Practical Machine Learning (Day 1/2),26
+Information architecture for Apache Hadoop,28
+Hadoop Application Architectures - ask us anything,28
+Cloudera essentials for Apache Hadoop,28
+Building an Apache Hadoop data application,28
+The Future of Apache Hadoop Security,28
+Deep learning made doubly easy with reusable deep features,33
+Apache Spark advanced training (Day 1/2),36
+Bridging big data with big health,38
+Transparent encryption in HDFS,39
+A taste of random decision forests on Apache Spark,40
+Smart cars of tomorrow: real-time driving patterns,41
+The Internet of trains,41
+Data-Driven Business Day,41
+What we are made of: Analyzing the human genome with SQL,45
+Using data for EVIL,49
+Using the Zeta Architecture: To become a hero,51
+Being a good data citizen,51
+Keynote with Cait O'Riordan,53
+Deploying machine learning in production,59
+Big data 2.0 democratizes machine learning technology for Wall Street,59
+Keynote with Christina Flounders,61
+Practical machine learning - ask us anything,62
+Practical machine learning (Day 1/2),62
+Introduction to machine learning with IPython and scikit-learn,63
+The data adventure in Santander,68
+The age of agile analytics has arrived!,71
+Designing with data: A human-centered approach to data-driven design,73
+Apache Kylin - Extreme OLAP engine for Hadoop,79
+Data Trends at Goldman Sachs,86
+What's there to know about A/B testing?,88
+Keynote with Julie Meyer,89
+Thursday Keynote Welcome,102
+How Goldman Sachs is using knowledge to create an information edge,114
+Spark Camp,116
+Spark Mesos,118
+Wednesday Keynote Welcome,121
+Automating decision-making with big data: How to make it work,127
+Spark - ask us anything,130
+Hadoop and healthcare,152
+Scalable machine learning,191
+Bigtable’s next step,264
+Data Strategy and the CDO,350
+Big Data and IoT solutions in minutes,384
+Bringing life to design: Data science in 3D,386
+How to talk to a house,416
+Search evolved: Unraveling your data,438
+Apache Atlas: Data Governance for Hadoop,500
+Ideas that Matter,518
+Systems that enable data agility: Lessons from LinkedIn,607
